@@ -3,7 +3,7 @@
     "license": "MIT",
     "description": "Block.io is the easiest way to create wallets, send, and accept payments through Bitcoin, Litecoin, and Dogecoin. This is its PHP library.",
     "keywords": ["block.io", "dogecoin", "bitcoin", "litecoin", "block_io"],
-    "homepage": "#",
+    "homepage": "https://github.com/aflorea4/block_io-php/",
     "type": "library",
         "require": {
         "php": ">=7.2.0",
